@@ -1,0 +1,18 @@
+{
+  "name": "snack-weather-app",
+  "version": "0.0.0",
+  "description": "Project from FullStack React Native",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^36.0.0",
+    "git": "^0.1.5",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
+    "react-native-paper": "3.1.1"
+  }
+}

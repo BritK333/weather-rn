@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8960,
+  "expoServerNgrokUrl": "https://dm-jjv.anonymous.weather-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.dm-jjv.anonymous.weather-app.exp.direct",
+  "ngrokPid": 9006
+}
